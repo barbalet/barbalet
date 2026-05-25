@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tom Barbalet
 
-<!--
-**barbalet/barbalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build simulations, games, tools, and small systems that explore how complex worlds can emerge from compact code. Most of my public work sits somewhere between artificial life, cognitive simulation, ecological modelling, historical systems, and practical native software. I am especially interested in agent behavior, environment, weather, language, long-running simulation lineages, and the way older ideas can be carried forward through new platforms without losing their original character.
 
-Here are some ideas to get you started:
+My central project line is [ApeSDK](https://github.com/barbalet/apesdk), the public home of the Noble Ape artificial life simulation. Its aim is to create a detailed biological environment alongside a cognitive simulation. Around that core are ports, experiments, supporting tools, and descendants: [immersiveape](https://github.com/barbalet/immersiveape), the next incarnation of ApeSDK; [apesdk-js](https://github.com/barbalet/apesdk-js), a JavaScript port; [apesdk-rs](https://github.com/barbalet/apesdk-rs), a Rust version; and [skeleton](https://github.com/barbalet/skeleton), a Noble Ape skeleton project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work on historical and environmental simulations. [london1940](https://github.com/barbalet/london1940) simulates London in 1940. [bronzesim](https://github.com/barbalet/bronzesim) is a stand-alone C simulation of an Early Bronze Age-style island world. [longtermbrief](https://github.com/barbalet/longtermbrief) sits in the same C simulation family.
+
+A growing part of this account is historical wargame and battle simulation work, mostly in Swift. [derZweiteWeltkrieg](https://github.com/barbalet/derZweiteWeltkrieg) simulates Second World War battles. [guderian](https://github.com/barbalet/guderian) focuses on the battles of Heinz Guderian, while [monty](https://github.com/barbalet/monty) explores the battles of Bernard Montgomery. [zombie](https://github.com/barbalet/zombie) simulates and refights battles from The Troubles. [fieldofchaos](https://github.com/barbalet/fieldofchaos) is a programmatic exploration of tabletop skirmish games.
+
+Other projects explore engines, tools, language, and utilities. [werewolf](https://github.com/barbalet/werewolf) is a C to Java, JavaScript, Ruby, and Python transpiler. [png2json](https://github.com/barbalet/png2json) takes a PNG file and turns it into a JSON description. [musictodriveby](https://github.com/barbalet/musictodriveby) is an urban 3D engine. [jungle](https://github.com/barbalet/jungle) is a first-person jungle perspective for the Mac. [lastbreach](https://github.com/barbalet/lastbreach) is a post-apocalypse mundanity game. [azaz](https://github.com/barbalet/azaz) is described as the voice of a new generation. [libdeep](https://github.com/barbalet/libdeep) is a C/C++ deep learning library fork.
+
+Across these repositories, I tend to favor small, inspectable codebases, portable C foundations, native Mac interfaces, and systems that can be understood from the inside out. Some repositories are active development work; others are archives, sketches, ports, or preserved stages in a longer line of thought. Together they form a public record of simulation craft: agents, worlds, battles, terrain, cognition, tools, and experiments.
+
+For a more curated index of the public projects, visit [barbalet.com](https://www.barbalet.com/).
