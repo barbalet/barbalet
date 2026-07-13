@@ -13,15 +13,15 @@ Around that core are descendants and support projects: [immersiveape](https://gi
 YouTube video material:
 
 - [Noble Ape Presentation at Intel - Tom Barbalet, July 13, 2010](https://www.youtube.com/watch?v=lbn5F9yBgqw)
-- [Apple displaying Noble Ape at WWDC 2003](https://www.youtube.com/watch?v=mbQz11RXPFQ)
-- [Apple displaying Noble Ape at WWDC 2003](https://www.youtube.com/watch?v=iaUkH6bnSFs)
+- [Nathan Slingerland](https://www.linkedin.com/in/slingn/) and [Sanjay Patel](https://www.linkedin.com/in/sanjay3000/) demonstrating Noble Ape at WWDC 2003: [YouTube](https://www.youtube.com/watch?v=mbQz11RXPFQ)
+- [Nathan Slingerland](https://www.linkedin.com/in/slingn/) displaying Noble Ape at the Apple Developer Tools introductory session: [YouTube](https://www.youtube.com/watch?v=iaUkH6bnSFs)
 
 WWDC 2005 had no public Noble Ape video for the Intel implementation, as Apple was much more private about that demonstration.
 
 <p>
   <a href="https://www.youtube.com/watch?v=lbn5F9yBgqw"><img src="https://img.youtube.com/vi/lbn5F9yBgqw/hqdefault.jpg" alt="Noble Ape Presentation at Intel - Tom Barbalet, July 13, 2010" width="260"></a>
-  <a href="https://www.youtube.com/watch?v=mbQz11RXPFQ"><img src="https://img.youtube.com/vi/mbQz11RXPFQ/hqdefault.jpg" alt="Apple displaying Noble Ape at WWDC 2003" width="260"></a>
-  <a href="https://www.youtube.com/watch?v=iaUkH6bnSFs"><img src="https://img.youtube.com/vi/iaUkH6bnSFs/hqdefault.jpg" alt="Apple displaying Noble Ape at WWDC 2003" width="260"></a>
+  <a href="https://www.youtube.com/watch?v=mbQz11RXPFQ"><img src="https://img.youtube.com/vi/mbQz11RXPFQ/hqdefault.jpg" alt="Nathan Slingerland and Sanjay Patel demonstrating Noble Ape at WWDC 2003" width="260"></a>
+  <a href="https://www.youtube.com/watch?v=iaUkH6bnSFs"><img src="https://img.youtube.com/vi/iaUkH6bnSFs/hqdefault.jpg" alt="Nathan Slingerland displaying Noble Ape at the Apple Developer Tools introductory session" width="260"></a>
 </p>
 
 ## Current Public Work
